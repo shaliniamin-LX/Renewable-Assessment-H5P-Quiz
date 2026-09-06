@@ -1,8 +1,7 @@
 # Renewable-Assessment-H5P-Quiz
+A free, scenario-based H5P quiz on Creative Commons licences, created as a renewable assessment artifact for the Emerging Technologies course
 
-A free, scenario-based H5P quiz on Creative Commons licences, created as a renewable assessment artifact for the Emerging Technologies course.
-
-The quiz helps learners apply the key conditions of Creative Commons licences — Attribution (BY), NonCommercial (NC), NoDerivatives (ND), and ShareAlike (SA) — to practical educational scenarios.
+The quiz helps learners apply the key conditions of Creative Commons licences: Attribution (BY), NonCommercial (NC), NoDerivatives (ND), and ShareAlike (SA) to practical educational scenarios.
 
 ## Created With
 Lumi Education
